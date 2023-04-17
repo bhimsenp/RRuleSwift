@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D31B13961CA8E02E00D0B863"
                BuildableName = "RRuleSwift.framework"
-               BlueprintName = "RRuleSwift-iOS"
+               BlueprintName = "RRuleSwift"
                ReferencedContainer = "container:RRuleSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -47,12 +45,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D31B13961CA8E02E00D0B863"
             BuildableName = "RRuleSwift.framework"
-            BlueprintName = "RRuleSwift-iOS"
+            BlueprintName = "RRuleSwift"
             ReferencedContainer = "container:RRuleSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -65,7 +61,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D31B13961CA8E02E00D0B863"
             BuildableName = "RRuleSwift.framework"
-            BlueprintName = "RRuleSwift-iOS"
+            BlueprintName = "RRuleSwift"
             ReferencedContainer = "container:RRuleSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
