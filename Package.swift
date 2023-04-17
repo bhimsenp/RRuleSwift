@@ -22,8 +22,7 @@ let package = Package(
             name: "RRuleSwift",
             dependencies: [],
             resources: [
-            .process("rrule.js"),
-            .process("nlp.js")
+                .copy("Resources")
             ])
     ]
 )
