@@ -22,7 +22,7 @@ let package = Package(
             name: "RRuleSwift",
             dependencies: [],
             resources: [
-                .copy("Resources")
+                .copy("JSResources")
             ])
     ]
 )
