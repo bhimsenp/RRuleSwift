@@ -83,7 +83,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EB48D1311D641ABB001EE872 /* Sources */ = {
+		D5E054B929ED32A300187BD2 /* RRuleSwift */ = {
 			isa = PBXGroup;
 			children = (
 				EB48D15B1D641D45001EE872 /* RecurrenceRule.swift */,
@@ -97,6 +97,14 @@
 				EB48D1591D641D45001EE872 /* NSDate+Comparison.swift */,
 				EB48D1561D641D45001EE872 /* lib */,
 				EB48D15D1D641D45001EE872 /* Supporting Files */,
+			);
+			path = RRuleSwift;
+			sourceTree = "<group>";
+		};
+		EB48D1311D641ABB001EE872 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				D5E054B929ED32A300187BD2 /* RRuleSwift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
