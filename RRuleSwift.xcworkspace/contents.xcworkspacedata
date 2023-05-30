@@ -4,7 +4,4 @@
    <FileRef
       location = "group:RRuleSwift.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:RRuleSwiftExample.xcodeproj">
-   </FileRef>
 </Workspace>
